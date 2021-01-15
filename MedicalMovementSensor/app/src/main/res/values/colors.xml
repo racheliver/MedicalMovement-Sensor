@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1f1f1f</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#cf6679</color>
+    <color name="colorBackground">#121212</color>
+    <color name="orange">#f4ae95</color>
+    <color name="green">#70efde</color>
+    <color name="transparentWhite">#dcdbe1</color>
+    <color name="gray">#a5a5a5</color>
+    <color name="progressBarGreen">#80D66B</color>
+    <color name="progressBarYellow">#FFEE5A</color>
+    <color name="progressBarOrange">#F0B51C</color>
+    <color name="progressBarRed">#F05348</color>
+</resources>
